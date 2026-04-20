@@ -1,6 +1,9 @@
 # Slimefun 4
 *Looking for the download link? [**Click here**](https://github.com/Slimefun/Slimefun4/blob/master/README.md#floppy_disk-download-slimefun-4)*
 
+> This repository contains an unofficial `Paper/Purpur 1.20.6` port prepared by `DrakesCraft-Labs`.
+> See [PORTING.md](PORTING.md) for scope, compatibility notes, and release details.
+
 Slimefun is a plugin which aims to turn your Spigot Server into a modpack without ever installing a single mod. It offers everything you could possibly imagine. From Backpacks to Jetpacks! Slimefun lets every player decide on their own how much they want to dive into Magic or Tech.<br>
 We got everything from magical wands to nuclear reactors.<br>
 We feature a magical altar, an electric power grid and even item transport systems.
